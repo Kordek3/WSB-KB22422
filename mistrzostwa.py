@@ -6,6 +6,7 @@ data = {
     'Zwycięzca': ['Brazylia', 'Włochy', 'Hiszpania'],
     'Król strzelców': ['Ronaldo (8 goli)', 'Klose (5 goli)', 'Forlan (5 goli)'],
     'Król strzelców': ['Ronaldo (8 goli)', 'Klose (5 goli)', 'Forlan (5 goli)'],
+    'Król strzelców': ['Ronaldo (8 goli)', 'Klose (5 goli)', 'Forlan (5 goli)'],
 }
 
 # Tworzenie tabeli
