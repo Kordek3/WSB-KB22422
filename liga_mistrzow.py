@@ -1,3 +1,5 @@
+wynik_meczu = "Bayern Monachium 1 - 0 PSG"
+
 sklad_bayernu = [
     ["Numer", "Zawodnik", "Pozycja"],
     ["1", "Manuel Neuer", "Bramkarz"],
